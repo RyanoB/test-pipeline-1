@@ -1,0 +1,11 @@
+{
+  "name": "test-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "author": "DevSoleo"
+}
